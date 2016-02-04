@@ -1,4 +1,5 @@
 #banner{
+	background: #002266;
 width: 100%;
 height: 200px;
 border: 1px black solid;
@@ -9,6 +10,10 @@ nav li{
 	float: left;
 	padding-left: 10px;
 	margin:auto;
+}
+li a {
+	height: 100%;
+	width: 100%;
 }
 .floatContainer{
 	display: flex;

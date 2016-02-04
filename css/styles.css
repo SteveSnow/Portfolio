@@ -4,13 +4,11 @@ height: 200px;
 border: 1px black solid;
 border-width: 0 0 1px 0;
 }
-.nav{
-	display: flex;
-	
-}
-.nav li{
+
+nav li{
 	float: left;
-	justify-content:center;
+	padding-left: 10px;
+	margin:auto;
 }
 .floatContainer{
 	display: flex;
@@ -21,11 +19,13 @@ border-width: 0 0 1px 0;
 }
 #navBar{
 	display: flex;
-	width: 30%;
+	justify-content:space-between;
+	width: auto;
 	height: 40px;
 	margin: auto;
 	margin-top: 0;
-	border: 1px black solid;
+	margin-bottom: 0;
+	/*border: 1px black solid;*/
 }
 .clearfix:after {
 display: table;

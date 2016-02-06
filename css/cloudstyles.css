@@ -1,3 +1,4 @@
+
 .floatContainer{
 position: absolute;
 top: 0;
@@ -16,7 +17,7 @@ height: 300px;
 width: 300px;
 float: left;
 border: 1px black solid;
-background-color: #ffff99;
+background-color: #FF5252;
 }
 .floatArticle p{
 word-wrap:break-word;
@@ -25,10 +26,10 @@ word-wrap:break-word;
 margin: auto;
 width: 100%;
 }
-.floatArticle:hover{
+/*.floatArticle:hover{
 	height: 350px;
 	width: 350px;
-}
+}*/
 .centerStage{
 display: flex;
 justify-content:space-between;

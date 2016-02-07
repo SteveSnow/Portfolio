@@ -9,10 +9,14 @@ flex-wrap: wrap;
 }
 .floatArticle{
 margin: auto;
-width: 200px;
+width: 220px;
 height: 80%;
 background-color: #8BC34A;
 /*border:5px black double;*/
+}
+
+.floatArticle li{
+	margin-left: 20px;
 }
 
 .headlineIcon{

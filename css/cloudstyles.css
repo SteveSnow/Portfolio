@@ -1,15 +1,26 @@
 
-#title{
+#titleCard{
+	width: 100%;
+	height: 100px;
+	background-color: #8BC34A;
 	position: absolute;
 	top:50px;
-	left:100px;
+	left:50px;
+	line-height: 0.5;
+	display: float;
+}
+#title{
 	font-size: 30;
+	position: relative;
+	left: 30px;
+	top: 20px;
 }
-#subTitle{
-position: absolute;
-	top:80px;
-	left:100px;	
+#subtitle{
+	position: relative;
+	top:10px;
+	left: 30px;
 }
+
 #background{
 position: absolute;
 top: 0;

@@ -10,7 +10,7 @@ flex-wrap: wrap;
 .floatArticle{
 margin: auto;
 width: 220px;
-height: 80%;
+height: 50%;
 background-color: #8BC34A;
 /*border:5px black double;*/
 }

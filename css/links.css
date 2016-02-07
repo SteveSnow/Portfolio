@@ -1,0 +1,22 @@
+#mainStage{
+	display: flex;
+height: 500px;
+width: 80%;
+margin:auto;
+z-index: 6;
+justify-content:space-between;
+flex-wrap: wrap;
+}
+.floatArticle{
+margin: auto;
+width: 200px;
+height: 80%;
+background-color: #8BC34A;
+/*border:5px black double;*/
+}
+
+.headlineIcon{
+	text-align: center;
+	width:100%;
+	margin-top: 10px;
+}

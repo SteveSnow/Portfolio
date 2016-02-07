@@ -5,6 +5,11 @@
 	left:100px;
 	font-size: 30;
 }
+#subTitle{
+position: absolute;
+	top:80px;
+	left:100px;	
+}
 #background{
 position: absolute;
 top: 0;
@@ -34,9 +39,6 @@ height: 250px;
 width: 250px;
 float: left;
 background-color: #8BC34A;
-}
-.floatArticle p{
-word-wrap:break-word;
 }
 .floatArticle i{
 margin: auto;

@@ -18,6 +18,10 @@ background-color: #4CAF50;
 .floatArticle li{
 	margin-left: 20px;
 }
+.floatArticle li a{
+	text-decoration: none;
+	text-color-black;
+}
 
 .headlineIcon{
 	text-align: center;
